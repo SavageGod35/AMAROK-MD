@@ -15,8 +15,8 @@ command(  {
 //BY TOXIC KICHU
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:CYBER KID\n' // full name
-            + 'ORG:Amarok md;\n' // the organization of the contact
+            + 'FN:SavageGod 🕊\n' // full name
+            + 'ORG:Cole V6;\n' // the organization of the contact
             + 'TEL;type=CELL;type=VOICE;waid=27638860735:+27 63 886 0735\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 await message.client.sendMessage(
